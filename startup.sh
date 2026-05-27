@@ -8,7 +8,7 @@ cd /home/site/wwwroot
 
 source /home/site/wwwroot/.venv/bin/activate
 
-python3 -m streamlit run version2.py \
+python3 -m streamlit run version3.py \
     --server.port 8000 \
     --server.address 0.0.0.0 \
     --server.headless true \
